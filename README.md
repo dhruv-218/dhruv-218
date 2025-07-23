@@ -1,20 +1,33 @@
 # 💫 About Me:
-I’m currently working on a quantum-classical hybrid optimization model for supply chain logistics during my internship at Cybrane X Technologies, and leading quantum computing initiatives in my college's R&D Cell.<br>
+Hi, I'm Dhruv Solanki — a Fourth year B.Tech student at the University of Mumbai specializing in Artificial Intelligence and Data Science with honours in Cybersecurity; hands-on experience in Python, MySQL, and foundational Java, I am passionate about applying advanced computing techniques to solve real-world problems.
+
+Recently, I worked as a Quantum Developer Intern at Cybrane X, where I built a quantum-classical hybrid optimization model for supply chain logistics. I combined quantum amplitude encoding with classical modeling and developed a full-stack dashboard (FastAPI + Next.js) to visualize and analyze results — tackling NP-hard problems in a scalable way.
+
+My projects span a range of domains:
+
+Generative AI | Machine learning | Deep learning |Object Detection | Quantum Computing | Automation | 
+
+Domain: Generative AI (Image Generation)
+=> GAN to generate professional-grade ad posters tailored for marketing campaigns
+
+Domain: Remote Sensing / Geospatial Data Science / Environmental Monitoring
+=> Land cover classification using Sentinel-2 and Random Forest on Google Earth Engine
+
+Domain: Autonomous driving & object detection
+=> Autonomous driving & object detection using YOLOv11 
+
+Domain: Intelligent Transportation Systems / Traffic Congestion
+=> Predictive Classification of Traffic Congestion 
+
+Domain: Audio Manipulation
+=>Automated beat generation using PyDub 
 
 
-I’m looking to collaborate on AI, data science, and quantum computing projects—especially those involving real-world applications like geospatial analysis or autonomous systems.<br>
+I’m also the Quantum Project Lead at SAKEC’s Research & Development Cell, and my first book, Quantum Computing Unleashed: Design, Models and Applications, is set to publish with Wiley in 2025.
 
+My interests lie at the intersection of AI, quantum computing, and real-time data applications — especially where I can build tech that scales and matters.
 
-I’m looking for help with advanced quantum algorithms and applying AI in finance and Earth observation domains.<br>
-
-
-I’m currently learning Quantum Fourier Transform, YOLO-based object detection, and geospatial analytics using Google Earth Engine.<br>
-
-
-Ask me about Python, data pipelines, FastAPI, quantum computing basics, and how to build end-to-end ML applications.<br>
-
-
-Fun fact: I built a music beat generator that overlays genres like LoFi and Jazz—because AI should sound cool too!<br>
+Let’s connect and collaborate on building intelligent systems for tomorrow.
 
 
 
